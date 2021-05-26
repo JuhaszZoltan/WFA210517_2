@@ -97,13 +97,14 @@ namespace feladatok12_03
             // 
             // btnKilepes
             // 
+            this.btnKilepes.BackColor = System.Drawing.Color.Tomato;
             this.btnKilepes.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.btnKilepes.Location = new System.Drawing.Point(206, 506);
             this.btnKilepes.Name = "btnKilepes";
             this.btnKilepes.Size = new System.Drawing.Size(164, 52);
             this.btnKilepes.TabIndex = 3;
             this.btnKilepes.Text = "Kilépés";
-            this.btnKilepes.UseVisualStyleBackColor = true;
+            this.btnKilepes.UseVisualStyleBackColor = false;
             this.btnKilepes.Click += new System.EventHandler(this.BtnKilepes_Click);
             // 
             // FrmSzinezo
