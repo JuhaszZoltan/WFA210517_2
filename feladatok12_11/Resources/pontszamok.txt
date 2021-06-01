@@ -1,0 +1,4 @@
+﻿Béla;100
+Lukrécia;30
+Zoli;0
+Géza;120
