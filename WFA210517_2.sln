@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_09", "feladatok
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_11", "feladatok12_11\feladatok12_11.csproj", "{10D3BC58-9E6B-478E-96BE-0348FC47A668}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_13", "feladatok12_13\feladatok12_13.csproj", "{D0E1FA80-462F-4F43-A4FB-83CB55F346D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_15", "feladatok12_15\feladatok12_15.csproj", "{9AA61EF1-47C4-468B-833B-01EE44B225F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,14 @@ Global
 		{10D3BC58-9E6B-478E-96BE-0348FC47A668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10D3BC58-9E6B-478E-96BE-0348FC47A668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10D3BC58-9E6B-478E-96BE-0348FC47A668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E1FA80-462F-4F43-A4FB-83CB55F346D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E1FA80-462F-4F43-A4FB-83CB55F346D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E1FA80-462F-4F43-A4FB-83CB55F346D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E1FA80-462F-4F43-A4FB-83CB55F346D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA61EF1-47C4-468B-833B-01EE44B225F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA61EF1-47C4-468B-833B-01EE44B225F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA61EF1-47C4-468B-833B-01EE44B225F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA61EF1-47C4-468B-833B-01EE44B225F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
