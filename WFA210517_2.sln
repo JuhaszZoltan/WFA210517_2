@@ -5,11 +5,6 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_01", "feladatok12_01\feladatok12_01.csproj", "{0481BB5C-C41F-4C12-8AC8-48264DD07E80}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specification", "Specification", "{AB50535C-3D8A-42DA-A8EA-200895FD1C58}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\juhas\Desktop\FELADATOK\PROG_ALAP\feladatok12.pdf = C:\Users\juhas\Desktop\FELADATOK\PROG_ALAP\feladatok12.pdf
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_02", "feladatok12_02\feladatok12_02.csproj", "{B4ED06EC-9E3C-4E06-A6D1-F3436604B7FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_03", "feladatok12_03\feladatok12_03.csproj", "{5FE46460-E667-42DA-B7D0-FBBB3EBA5C12}"
@@ -27,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_13", "feladatok12_13\feladatok12_13.csproj", "{D0E1FA80-462F-4F43-A4FB-83CB55F346D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok12_15", "feladatok12_15\feladatok12_15.csproj", "{9AA61EF1-47C4-468B-833B-01EE44B225F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feladatok13_01", "feladatok13_01\feladatok13_01.csproj", "{743C2832-8839-4DB6-B2B7-D62B0E434275}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +71,10 @@ Global
 		{9AA61EF1-47C4-468B-833B-01EE44B225F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA61EF1-47C4-468B-833B-01EE44B225F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA61EF1-47C4-468B-833B-01EE44B225F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743C2832-8839-4DB6-B2B7-D62B0E434275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743C2832-8839-4DB6-B2B7-D62B0E434275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743C2832-8839-4DB6-B2B7-D62B0E434275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743C2832-8839-4DB6-B2B7-D62B0E434275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
